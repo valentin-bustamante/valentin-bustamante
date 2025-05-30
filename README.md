@@ -40,13 +40,13 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/ely_.ok_/?hl=es">
+<a target="blank" href= "https://www.instagram.com/ely_.ok_/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://open.spotify.com/user/lo9gar3l5ppgpxb3yiu3ycht6?si=b80a2e951c954e04" >
+<a target="blank" href="https://open.spotify.com/user/lo9gar3l5ppgpxb3yiu3ycht6?si=b80a2e951c954e04" >
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
 </a>
-<a href="https://x.com/Ely_Ok_" >
+<a target="blank" href="https://x.com/Ely_Ok_" >
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
 </a>
 
