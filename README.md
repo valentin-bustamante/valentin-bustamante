@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:vbedits333@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="mailto:valennbustt@gmail.com">Email</a> &nbsp;·&nbsp;
   <a href="https://github.com/bgastong/S-otify">Featured project</a> &nbsp;·&nbsp;
   <a href="https://github.com/valentin-bustamante?tab=repositories">All repositories</a>
 </p>
@@ -62,10 +62,6 @@ A collaborative introductory programming project built in PHP. Includes word gue
 
 [View repository](https://github.com/valentin-bustamante/Wordix)
 
-### More coursework
-
-[PHP web development](https://github.com/valentin-bustamante/PWD) · [SQL & relational databases](https://github.com/valentin-bustamante/DATA-BASE)
-
 ## Beyond the code
 
 I enjoy gaming, music, streaming, and science books, and I share programming and technology content on social media.
@@ -74,4 +70,4 @@ I enjoy gaming, music, streaming, and science books, and I share programming and
 
 I'm interested in collaborating on open-source projects and exchanging ideas about web development.
 
-**Email:** [vbedits333@gmail.com](mailto:vbedits333@gmail.com)
+**Email:** [valennbustt@gmail.com](mailto:valennbustt@gmail.com)
